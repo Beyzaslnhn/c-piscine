@@ -1,5 +1,0 @@
-Credentials cache: API:F8742DF4-F94C-412F-BBAF-2033C5AA37B7
-        Principal: baslanha@42ISTANBUL.COM.TR
-
-  Issued                Expires               Principal
-Nov 22 18:59:46 2021  Nov 22 21:59:37 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
